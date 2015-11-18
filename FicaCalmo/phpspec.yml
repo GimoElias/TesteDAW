@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: Pizzaria
+        psr4_prefix: Pizzaria
+        src_path: app
